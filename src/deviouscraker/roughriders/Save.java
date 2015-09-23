@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
-import deviouscraker.api.util.encryption.Encrypt;
+import fourotherguys.lib.util.encryption.Encrypt;
 
 public class Save {
 

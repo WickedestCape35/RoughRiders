@@ -2,7 +2,7 @@ package deviouscraker.roughriders.lib;
 
 import java.util.HashMap;
 
-import deviouscraker.api.util.images.SpriteSheet;
+import fourotherguys.lib.util.images.SpriteSheet;
 import deviouscraker.roughriders.entity.spaniard.Spaniard;
 
 /**

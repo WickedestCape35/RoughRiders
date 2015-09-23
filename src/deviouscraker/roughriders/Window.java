@@ -17,8 +17,8 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-import deviouscraker.api.util.images.SpriteSheet;
-import deviouscraker.api.util.input.KeyInput;
+import fourotherguys.lib.util.images.SpriteSheet;
+import fourotherguys.lib.util.input.KeyInput;
 import deviouscraker.roughriders.entity.Player;
 import deviouscraker.roughriders.lib.Resource;
 import deviouscraker.roughriders.lib.SpaniardTypes;

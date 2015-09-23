@@ -4,7 +4,7 @@ import java.awt.geom.AffineTransform;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
-import deviouscraker.api.util.GetImage;
+import fourotherguys.lib.util.images.GetImage;
 import deviouscraker.roughriders.Main;
 import deviouscraker.roughriders.lib.Resource;
 
@@ -36,8 +36,8 @@ public class BulletHandler {
 	}
 
 	/*
-	 * @throws BulletOriginException
-	 *             thrown if the origin is neither the player nor the computer.
+	 * @throws BulletOriginException thrown if the origin is neither the player
+	 * nor the computer.
 	 * 
 	 */
 	public void moveBullets() throws BulletOriginException {
