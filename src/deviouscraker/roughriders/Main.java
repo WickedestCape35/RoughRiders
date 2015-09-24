@@ -44,6 +44,7 @@ public class Main {
 
 		sr.getNewSpaniard(700, 100, Resource.Spaniard.PRIVATE);
 		sr.getNewSpaniard(832, 212.5f, Resource.Spaniard.PRIVATE);
+		sr.getNewSpaniard(900, 212.5f, Resource.Spaniard.PRIVATE);
 		sr.getNewSpaniard(100, 100, Resource.Spaniard.PRIVATE);
 		sr.getNewSpaniard(100, 200, Resource.Spaniard.CORPORAL);
 		sr.getNewSpaniard(100, 300, Resource.Spaniard.SERGEANT);
